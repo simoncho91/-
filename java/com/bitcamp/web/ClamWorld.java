@@ -16,7 +16,7 @@ public class ClamWorld {
         String 크라켄 = scanner.next();
         System.out.println("환영합니다 " + 크라켄 + "님 ");
 
-
+        System.out.println("JangWonJong BaBo");
 
     }
 }
